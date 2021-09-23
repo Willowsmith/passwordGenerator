@@ -15,7 +15,7 @@ The following image shows the web application's appearance and functionality:
 
 # Installation
 
-There are no steps required to install this project, simply launch the website in your preferred web browser and select the generate password button. You can locate the website at: 
+There are no steps required to install this project, simply launch the website in your preferred web browser and select the generate password button. You can locate the website at: [Website:](https://willowsmith.github.io/passwordGenerator/)
 
 # Usage
 
